@@ -71,13 +71,20 @@ where SET is one of the four following evaluation sets (eval_set in orders):
     "test": test data reserved for machine learning competitions (~75k orders)
 
 #### Tools 
-  Pandas
-  Numpy
-  Seaborn
-  Matplotlib
-  SciPy
+Data was analyzed and wrangled using Python and the following libraries:
+  Pandas: data analysis and manipulation
+  
+  Numpy: mathematical equations
+  
+  Seaborn: visualizations
+  
+  Matplotlib: visualizations
+  
+  SciPy: mathematical equations
 
-##### Resources
+##### Data Source
+Data Source: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle in April 2024.
+Customer data as well as the "prices" column were both fabricated for the purpose of this course.
 
 
   
